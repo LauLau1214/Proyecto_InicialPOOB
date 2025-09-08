@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Store
+comment0.text=\r\n\ La\ clase\ Store\ representa\ una\ tienda\ en\ el\ Camino\ de\ la\ Seda.\r\n\ Cada\ tienda\ tiene\ una\ ubicaci\u00F3n\ fija\ y\ una\ cantidad\ de\ tenges\ disponible,\r\n\ que\ puede\ reabastecerse\ a\ su\ cantidad\ inicial.\r\n\ Se\ visualiza\ gr\u00E1ficamente\ como\ un\ cuadrado.\r\n
+comment1.params=location\ tenges
+comment1.target=Store(int,\ int)
+comment1.text=\r\n\ Crea\ una\ tienda\ en\ una\ ubicaci\u00F3n\ dada\ con\ una\ cantidad\ inicial\ de\ tenges.\r\n\ \r\n\ @param\ location\ Posici\u00F3n\ de\ la\ tienda\ sobre\ el\ camino.\r\n\ @param\ tenges\ \ \ Cantidad\ inicial\ de\ tenges\ disponibles\ en\ la\ tienda.\r\n
+comment2.params=
+comment2.target=void\ resupply()
+comment2.text=\r\n\ Reabastece\ la\ tienda\ con\ su\ cantidad\ inicial\ de\ tenges.\r\n
+comment3.params=
+comment3.target=int\ getLocation()
+comment3.text=\r\n\ Obtiene\ la\ ubicaci\u00F3n\ de\ la\ tienda.\r\n\ \r\n\ @return\ La\ ubicaci\u00F3n\ sobre\ el\ camino.\r\n
+comment4.params=
+comment4.target=int\ getTenges()
+comment4.text=\r\n\ Obtiene\ la\ cantidad\ actual\ de\ tenges\ en\ la\ tienda.\r\n\ \r\n\ @return\ Cantidad\ de\ tenges\ disponible.\r\n
+comment5.params=
+comment5.target=void\ makeVisible()
+comment5.text=\r\n\ Hace\ visible\ la\ tienda\ .\r\n
+comment6.params=
+comment6.target=void\ makeInvisible()
+comment6.text=\r\n\ Hace\ invisible\ la\ tienda.\r\n
+comment7.params=color
+comment7.target=void\ setColor(java.lang.String)
+comment7.text=\r\n\ Cambia\ el\ color\ de\ la\ tienda\ en\ la\ interfaz\ gr\u00E1fica.\r\n\ \r\n\ @param\ color\ Nombre\ del\ color\ (en\ formato\ aceptado\ por\ la\ clase\ Rectangle).\r\n
+numComments=8

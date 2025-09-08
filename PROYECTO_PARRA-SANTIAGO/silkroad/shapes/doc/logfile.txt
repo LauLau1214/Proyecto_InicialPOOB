@@ -1,0 +1,82 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes
+-source
+21
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\javafx-base-23.0.2-win.jar;C:\Program Files\BlueJ\lib\javafx-controls-23.0.2-win.jar;C:\Program Files\BlueJ\lib\javafx-fxml-23.0.2-win.jar;C:\Program Files\BlueJ\lib\javafx-graphics-23.0.2-win.jar;C:\Program Files\BlueJ\lib\javafx-media-23.0.2-win.jar;C:\Program Files\BlueJ\lib\javafx-swing-23.0.2-win.jar;C:\Program Files\BlueJ\lib\javafx-web-23.0.2-win.jar;C:\Program Files\BlueJ\lib\junit-4.12.jar;C:\Program Files\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\opentest4j-1.2.0.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\javafx.web.jar;D:\Documents\Semestre 5\POOB\LAB\shapes\shapes
+-d
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+shapes
+-windowtitle
+shapes
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/21/docs/api/
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes/Circle.java
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes/Canvas.java
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes/Rectangle.java
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes/Triangle.java
+<---- end of javadoc command ---->
+Loading source file D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Circle.java...
+Loading source file D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Canvas.java...
+Loading source file D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Rectangle.java...
+Loading source file D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Triangle.java...
+Constructing Javadoc information...
+Building index for all the packages and classes...
+Standard Doclet version 21.0.6+7-LTS
+Building tree for all the packages and classes...
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\Canvas.html...
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Canvas.java:114: warning: @param argument "newColour" is not a parameter name.
+     * @param  newColour   the new colour for the foreground of the Canvas 
+       ^
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\Circle.html...
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Circle.java:184: warning: invalid input: '<'
+     * Shrink the circle "times" times until its area is <= limitArea.
+                                                         ^
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Circle.java:160: warning: @param argument "color" is not a parameter name.
+     * @param color the new color. Valid colors are "red", "yellow", "blue", "green",
+       ^
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Circle.java:184: warning: invalid input: '<'
+     * Shrink the circle "times" times until its area is <= limitArea.
+                                                         ^
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\Rectangle.html...
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Rectangle.java:143: warning: @param argument "newWidht" is not a parameter name.
+     * @param newWidht the new width in pixels. newWidth must be >=0.
+       ^
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Rectangle.java:154: warning: @param argument "color" is not a parameter name.
+     * @param color the new color. Valid colors are "red", "yellow", "blue", "green",
+       ^
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\Triangle.html...
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Triangle.java:140: warning: @param argument "newWidht" is not a parameter name.
+     * @param newWidht the new width in pixels. newWidht must be >=0.
+       ^
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Triangle.java:151: warning: @param argument "color" is not a parameter name.
+     * @param color the new color. Valid colors are "red", "yellow", "blue", "green",
+       ^
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\package-summary.html...
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\package-tree.html...
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\constant-values.html...
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\overview-tree.html...
+Building index for all classes...
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\allclasses-index.html...
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\allpackages-index.html...
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\index-all.html...
+D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\Circle.java:184: warning: invalid input: '<'
+     * Shrink the circle "times" times until its area is <= limitArea.
+                                                         ^
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\search.html...
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\index.html...
+Generating D:\Documents\Semestre 5\POOB\LAB\shapes\shapes\doc\help-doc.html...
+9 warnings
