@@ -1,0 +1,36 @@
+. ¿Cuáles fueron los mini-ciclos definidos? Justifíquenlos.
+
+Diseño UML: se actualizo el diagrama de clases que refleja las relaciones entre SilkRoad, Robot y Store.
+
+Ajustes al código según UML: se revisaron constructores, atributos y métodos para asegurar consistencia con el diagrama.
+
+Documentación: se completó la JavaDoc y se dejaron los comentarios de los métodos que faltaban.
+2. ¿Cuál es el estado actual del proyecto en términos de mini-ciclos? ¿Por qué?
+
+Tenemos ciertas faltas y faltan cosas por definir pero preferimos dejarlo para preguntar a hacer algo que no debemos
+
+3. ¿Cuál fue el tiempo total invertido por cada uno de ustedes? (Horas/Hombre)
+
+Mariana Parra: 6 horas 
+
+Laura Santiago: 6 horas 
+
+4. ¿Cuál consideran fue el mayor logro? ¿Por qué?
+
+Lograr que el código y el UML coincidieran perfectamente,
+
+5. ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+
+Problema: Ajustar detalles del código (ej. constructores, atributos visibles) para que coincidieran exactamente con el UML.
+
+Solución: Revisar clase por clase, y documentar con JavaDoc, garantizando la alineación.
+
+6. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+
+Bien: Distribuimos tareas claras 
+
+Compromiso: Mantener el UML actualizado en paralelo al código desde el inicio, y no solo al final.
+
+7. Considerando las prácticas XP incluidas en los laboratorios. ¿Cuál fue la más útil? ¿Por qué?
+
+La práctica más útil fue Diseño simple + comunicación constante: con un UML claro se evitó duplicar esfuerzos y se facilitó la documentación.
